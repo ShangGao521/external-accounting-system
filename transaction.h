@@ -1,0 +1,1 @@
+void add_transaction (char *s, int num, struct dictionary *d);
